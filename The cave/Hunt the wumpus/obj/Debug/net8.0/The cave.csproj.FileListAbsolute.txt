@@ -1,0 +1,14 @@
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\bin\Debug\net8.0\The cave.exe
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\bin\Debug\net8.0\The cave.deps.json
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\bin\Debug\net8.0\The cave.runtimeconfig.json
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\bin\Debug\net8.0\The cave.dll
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\bin\Debug\net8.0\The cave.pdb
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\obj\Debug\net8.0\The cave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\obj\Debug\net8.0\The cave.AssemblyInfoInputs.cache
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\obj\Debug\net8.0\The cave.AssemblyInfo.cs
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\obj\Debug\net8.0\The cave.csproj.CoreCompileInputs.cache
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\obj\Debug\net8.0\The cave.dll
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\obj\Debug\net8.0\refint\The cave.dll
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\obj\Debug\net8.0\The cave.pdb
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\obj\Debug\net8.0\The cave.genruntimeconfig.cache
+C:\Users\cedie\source\repos\Hunt the wumpus\Hunt the wumpus\obj\Debug\net8.0\ref\The cave.dll
